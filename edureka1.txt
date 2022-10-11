@@ -1,1 +1,3 @@
-this is my first session
+This is my first session - This is a second line.
+
+this code is for development of new software
